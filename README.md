@@ -1,5 +1,5 @@
 # Collaboration_VR
-Evaluating 13 Collaborative Mind Mapping Sessions in Virtual Reality: Sentiment Analysis on Written Text during Mind-Mapping, Quantitative Data Analysis of GSR Data and Performance Data 
+Evaluating 13 Collaborative Mind Mapping Sessions in Virtual Reality: Quantitative Data Analysis of Galvanic Skin Response Data, Performance Data and Sentiment Analysis on Written Text during Mind-Mapping in VR.
 
 HCI23 Paper: Evaluating the Outcome of Collaborative VR Mind Mapping Sessions with Sentiment Analysis and Emotional Intelligence
 
